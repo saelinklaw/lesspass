@@ -25,7 +25,7 @@
     "@react-navigation/material-bottom-tabs": "^5.1.8",
     "@react-navigation/native": "^5.1.5",
     "@react-navigation/stack": "^5.2.10",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fuse.js": "^3.4.5",
     "lesspass-fingerprint": "^9.1.4",
     "lesspass-render-password": "^9.1.4",
